@@ -1,0 +1,18 @@
+{
+  "name": "Palja Jib Planner",
+  "short_name": "Palja Jib",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f3f7",
+  "theme_color": "#f4f5f7",
+  "lang": "ko-KR",
+  "description": "월간/주간 캘린더, 일일 노트, 시간대별 예약 관리가 가능한 개인용 네일 예약 플래너",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
